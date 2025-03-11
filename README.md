@@ -54,6 +54,17 @@
 
 ###
 
+<h3 align="left">     <br>              </h3>
+
+###
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejomaib&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=darcula&hide_border=false&order=2&custom_title=%20" height="149" alt="languages graph"  />
+</div>
+
+###
+
 <h3 align="left">✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩</h3>
 
 ###
