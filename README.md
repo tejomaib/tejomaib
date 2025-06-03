@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Teju and I am a student at Texas A&M University currently pursuing my Bachelor's in Electronic Systems Engineering, on an Embedded Systems track, with a minor in Computer Science. In short, I love all things robotics/programming and am constantly learning more about the bridge between software and hardware in the realm of tech. <br><br>My page is still a work in progress but feel free to look around and reach out!</p>
+<p align="left">My name is Teju and I am a student at Texas A&M University currently pursuing my Bachelor's in Electronic Systems Engineering, on an Embedded Systems track, with a minor in Engineering Project Management. In short, I love all things robotics/programming and am constantly learning more about the bridge between software and hardware in the realm of tech. <br><br>My page is still a work in progress but feel free to look around and reach out!</p>
 
 ###
 
